@@ -38,11 +38,11 @@ All code is provided in a **Jupyter Notebook (.ipynb)** file for easy execution 
 
 ## Datasets
 
-1. **[MovieLens Dataset](https://grouplens.org/datasets/movielens/):**
+1. **[MovieLens Dataset](https://grouplens.org/datasets/movielens/)** (/data)  
    - Explicit ratings dataset with 100,000 ratings from 943 users on 1,682 movies.
    - Used for benchmarking optimizers with user-item interactions.
 
-2. **[Last.fm Dataset](http://millionsongdataset.com/lastfm/):**
+2. **[Last.fm Dataset](http://millionsongdataset.com/lastfm/)** (/lastfm)
    - Implicit feedback dataset containing listening counts for artists by users.
    - Includes 92,834 interactions between 1,892 users and 17,632 artists.
 
